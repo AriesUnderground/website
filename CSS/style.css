@@ -1,0 +1,22 @@
+.slideshow {
+  height: 500px;
+  width: 250px;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+.facts {
+  border-radius: 25px;
+  background: rgba(247, 93, 93, 0.5);
+  padding: 20px;
+}
+
+.photo img {
+  width: 200px;
+  height: 200px;
+}
